@@ -1,4 +1,4 @@
-This is a complete customer LTV prediction pipeline featuring:
+This is an agentic ML model with complete customer LTV prediction pipeline featuring:
 
 - Synthetic e-commerce transactions dataset (~500 customers, ~100,000 transactions over 18 months)
 - Trained regression model predicting a customer's total spend in the next 90 days
